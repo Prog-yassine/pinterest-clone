@@ -20,5 +20,5 @@ Ensure you have the following installed:
 ### Steps
 1. Clone this repository:
    ```bash
-   git clone URL_DU_DEPOT
+   git clone https://github.com/Prog-yassine/pinterest-clone.git
    cd pinterest-clone
