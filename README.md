@@ -10,14 +10,13 @@ This project replicates the core functionalities of Pinterest, allowing users to
 - **Frontend**: React.js, Tailwind CSS
 
 ### Image 1: Home Page
-![Home Page]([https://example.com/path-to-image1.png](https://i.ibb.co/x2q3mK1/Screenshot-2025-01-15-133024.png))
+![Home Page](./assets/1.png)
 
 ### Image 2: Home Page post hover
-![Home Page post hover]([https://example.com/path-to-image2.png](https://i.ibb.co/4MkwYkX/Screenshot-2025-01-15-133058.png))
+![Home Page post hover](./assets/2.png)
 
-### Image 2: Create Pin Page
-![Create Pin Page]([https://example.com/path-to-image2.png](https://i.ibb.co/XxHjJ36/Screenshot-2025-01-15-133145.png))
-
+### Image 3: Create Pin Page
+![Create Pin Page](./assets/3.png)
 
 ### Prerequisites
 Ensure you have the following installed:
